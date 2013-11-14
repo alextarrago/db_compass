@@ -1,7 +1,11 @@
 DBCompass
 ==========
 
-DBCompass helps you to develop iOS apps in which you need to determine the heading of the user's phone (refering to a coordinate) or the distance between the user and a given location.
+DBCompass helps you to develop iOS apps in which you need to determine the heading of the user's phone (refered to a coordinate) or the distance between the user and a given location.
+
+It offers you a way to track the user's location and heading given by a coordinate or an address.
+
+Really useful for geolocation AR applications.
 
 ## Requirements
 
