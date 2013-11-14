@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1AA72A09-15C4-43ED-BE74-FC44BBFE1461</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DBCompassDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40E5CB3A-D86E-4E1A-A53D-11C6BCBD7EED</key>
+		<string>https://github.com/alextarrago/db_compass.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/DBCompassDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40E5CB3A-D86E-4E1A-A53D-11C6BCBD7EED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alextarrago/db_compass.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40E5CB3A-D86E-4E1A-A53D-11C6BCBD7EED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40E5CB3A-D86E-4E1A-A53D-11C6BCBD7EED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>db_compass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
