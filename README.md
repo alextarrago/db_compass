@@ -1,4 +1,4 @@
-db_compass
+DBCompass
 ==========
 
 DBCompass helps you to develop iOS apps in which you need to determine the heading of the user's phone (refering to a coordinate) or the distance between the user and a given location.
