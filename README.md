@@ -5,7 +5,7 @@ DBCompass helps you to develop iOS apps in which you need to determine the headi
 
 ## Requirements
 
-You should add the following frameworks to your project in order to work with db_compass
+You should add the following frameworks to your project in order to work with DBCompass
 
     CoreLocation.framework
     UIKit.framework
